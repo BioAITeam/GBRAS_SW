@@ -58,7 +58,7 @@ Autonomous University of Manizales (https://www.autonoma.edu.co/)
 
 University of Caldas (http://ucaldas.edu.co/)
 
--Gustavo isaza
+- Gustavo isaza
 
 University of Antioquia (http://udea.edu.co/)
 
