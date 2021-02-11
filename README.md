@@ -67,3 +67,10 @@ University of Antioquia (http://udea.edu.co/)
 ## References
 
 [1] T. -S. Reinel et al., "GBRAS-Net: A Convolutional Neural Network Architecture for Spatial Image Steganalysis," in IEEE Access, vol. 9, pp. 14340-14350, 2021, doi: 10.1109/ACCESS.2021.3052494.
+
+## Citation
+
+If you used GBRAS_SW in your research, please cite our paper:
+```
+T. -S. Reinel et al., "GBRAS-Net: A Convolutional Neural Network Architecture for Spatial Image Steganalysis," in IEEE Access, vol. 9, pp. 14340-14350, 2021, doi: 10.1109/ACCESS.2021.3052494.
+```
