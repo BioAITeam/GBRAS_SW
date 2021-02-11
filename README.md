@@ -34,7 +34,7 @@ conda install -c conda-forge argparse
 ## GBRAS_SW execution
 After installing all the prerequisites, you must clone the repository of the current version of GBRAS_SW using.
 ```
-git clone https://github.com/BioAITeam/GBRAS_SW.git.
+git clone https://github.com/BioAITeam/GBRAS_SW.git
 ```
 Then you might run as following:
 ```
