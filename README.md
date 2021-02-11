@@ -54,7 +54,7 @@ In the repository, there are two folders, one with images and the other with mod
 python GBRAS_SW.py -i ./images -m ./models/WOW_0.4bpp.hdf5
 ```
 ## Authors
-Autonomous University of Manizales (https://www.autonoma.edu.co/)
+Universidad Autonoma de Manizales (https://www.autonoma.edu.co/)
 
 - Reinel Tabares Soto
 - Harold Brayan Arteaga Arteaga
@@ -64,11 +64,11 @@ Autonomous University of Manizales (https://www.autonoma.edu.co/)
 - Jesus Alejandro Alzate Grisales
 - Simon Orozco Arias
 
-University of Caldas (http://ucaldas.edu.co/)
+Universidad de Caldas (http://ucaldas.edu.co/)
 
 - Gustavo Isaza
 
-University of Antioquia (http://udea.edu.co/)
+Universidad de Antioquia (http://udea.edu.co/)
 
 - Raul Ramos Pollan
 
