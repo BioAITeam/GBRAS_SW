@@ -1,9 +1,5 @@
 #GBRAS_SW
 
-#sudo -s
-#cd /media/ia/Datos1/DocReinel/Steganalysis/H_Brayan_A_Arteaga/Frankenstein_Project/GBRAS_SW
-#conda activate tf22
-#python GBRAS_SW.py -i ./images/stego -m ./models/S-UNIWARD_0.4bpp.hdf5
 
 
 #Libraries
