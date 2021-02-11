@@ -13,7 +13,8 @@ The GBRAS_SW requires the following libraries and frameworks.
 - datetime
 
 
-The GBRAS_SW software was developed in the Python3 (3.8) programming language.
+GBRAS_SW  was developed in the Python3 (3.8) programming language.
+
 ## Installation:
 We highly recommend to use and install Python packages within an Anaconda enviroment. To create, execute the command below:
 ```
