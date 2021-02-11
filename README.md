@@ -40,4 +40,8 @@ Then you might run as following:
 ```
 python GBRAS_SW.py -i ./images -m ./models/S-UNIWARD_0.4bpp.hdf5
 ```
+In the repository, there are two folders, one with images and the other with models. The images folder contains eighty cover and stego images for testing the software. Can add more images to the folder to test the software's accuracy in detecting cover and stego image in the spatial domain.  The format of the images is Portable Gray Map (PGM). In the model folder, there are four models S_UNIWARD and WOW, with two payloads, 0.4 and 0.2 bpp, respectively.  Can choose any of the four models to perform a cover or stego image prediction, Example:
 
+```
+python GBRAS_SW.py -i ./images -m ./models/WOW_0.4bpp.hdf5
+```
