@@ -8,6 +8,10 @@ The GBRAS_SW requires the following libraries and frameworks.
 - opencv 
 - argparse
 - glob
+- xlsxwriter
+- os
+- datetime
+
 
 The GBRAS_SW software was developed in the Python3 (3.8) programming language.
 ## Installation:
