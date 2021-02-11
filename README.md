@@ -47,3 +47,18 @@ python GBRAS_SW.py -i ./images -m ./models/WOW_0.4bpp.hdf5
 ```
 ## Authors
 Autonomous University of Manizales (https://www.autonoma.edu.co/)
+
+- Reinel Tabares Soto
+- Harold Brayan Arteaga Arteaga
+- Mario Alejandro Bravo Ortiz
+- Alejandro Mora Rubio
+- Daniel Arias Grazon
+- Jesus Alejandro Alzate Grisales
+- Simon Orozco Arias
+
+University of Caldas (http://ucaldas.edu.co/)
+
+-Gustavo isaza
+
+University of Antioquia (http://udea.edu.co/)
+
