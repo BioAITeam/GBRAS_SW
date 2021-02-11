@@ -1,9 +1,9 @@
 # GBRAS_SW a software for steganalysis in the spatial domain.
 GBRAS_SW is software for the detection of steganographic images in the spatial domain. An in-depth explanation of GBRAS_SW can be found in [1]. GBRAS_SW is state-of-the-art software for predicting steganographic images. GBRAS_SW has 30 SRM filters and a 3-fold TanH activation function for the preprocessing stage of steganographic images in the spatial domain. GBRAS_SW uses the ELU activation function in all feature extraction convolutions. GBRAS_SW uses shortcuts for feature extraction and separable and in-depth convolutions. GBRAS-Net does not use fully connected layers; the network uses a softmax directly after global average pooling.
 ## Prerequisites
-The GBRAS_SW software requires the following libraries and frameworks.
+The GBRAS_SW requires the following libraries and frameworks.
 
-- Tensorflow 2.2
+- Tensorflow 
 -	numpy 
 - opencv 
 - argparse
@@ -31,4 +31,13 @@ pip install opencv-python
 pip install scikit-image
 conda install -c conda-forge argparse
 ```
-## 
+## GBRAS_SW execution
+After installing all the prerequisites, you must clone the repository of the current version of GBRAS_SW using.
+```
+git clone https://github.com/BioAITeam/GBRAS_SW.git.
+```
+Then you might run as following:
+```
+python GBRAS_SW.py -i ./images -m ./models/S-UNIWARD_0.4bpp.hdf5
+```
+
