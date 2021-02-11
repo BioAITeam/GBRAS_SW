@@ -45,3 +45,5 @@ In the repository, there are two folders, one with images and the other with mod
 ```
 python GBRAS_SW.py -i ./images -m ./models/WOW_0.4bpp.hdf5
 ```
+## Authors
+Autonomous University of Manizales (https://www.autonoma.edu.co/)
