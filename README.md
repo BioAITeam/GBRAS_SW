@@ -63,3 +63,7 @@ University of Caldas (http://ucaldas.edu.co/)
 University of Antioquia (http://udea.edu.co/)
 
 - Raul Ramos Pollan
+
+## References
+
+[1] T. -S. Reinel et al., "GBRAS-Net: A Convolutional Neural Network Architecture for Spatial Image Steganalysis," in IEEE Access, vol. 9, pp. 14340-14350, 2021, doi: 10.1109/ACCESS.2021.3052494.
