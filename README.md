@@ -27,11 +27,9 @@ conda activate GBRAS_SW
 installed the framework
 ```
 conda install -c anaconda keras-gpu==2.4.3
-
 ```
 Now, install the libraries.
 ```
-
 pip install opencv-python
 pip install scikit-image
 conda install -c conda-forge argparse
