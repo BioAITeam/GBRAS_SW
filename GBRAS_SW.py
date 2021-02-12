@@ -1,7 +1,4 @@
 #GBRAS_SW
-
-
-
 #Libraries
 import tensorflow as tf
 import numpy as np
