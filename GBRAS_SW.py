@@ -65,7 +65,7 @@ if __name__ == '__main__':
     print("#  GBRAS-Net: A Convolutional Neural Network Architecture  #")
     print("#              for Spatial Image Steganalysis              #")
     print("#                                                          #")
-    print("#                    Trained models:                       #")
+    print("#                 Trained models option:                   #")
     print("#                 S-UNIWARD_0.4bpp.hdf5                    #")
     print("#                 S-UNIWARD_0.2bpp.hdf5                    #")
     print("#                    WOW_0.4bpp.hdf5                       #")
