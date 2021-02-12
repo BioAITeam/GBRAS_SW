@@ -3,12 +3,12 @@ GBRAS_SW is a software for the detection of steganographic images in the spatial
 ## Prerequisites
 The GBRAS_SW requires the following libraries and frameworks.
 
-- Tensorflow 
--	numpy 
-- opencv 
+- TensorFlow 
+-	numPy 
+- OpenCV 
 - argparse
 - glob
-- xlsxwriter
+- XlsxWriter
 - os
 - datetime
 
