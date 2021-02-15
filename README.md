@@ -1,5 +1,5 @@
-# GBRAS_SW is a software for steganalysis in the spatial domain.
-GBRAS_SW is a software for the detection of steganographic images in the spatial domain. An in-depth explanation of GBRAS_SW can be found in [1]. GBRAS_SW is a good software for the prediction of steganographic images. This software for preprocessing stage maintain the 30 SRM filters and has a 3xTanH activation function. GBRAS_SW uses the ELU activation function in all feature extraction convolutions. GBRAS_SW uses shortcuts for feature extraction and separable and depthwise convolutions. This software does not use fully connected layers; the network uses a softmax directly after global average pooling.
+# GBRAS_SW: a software for steganalysis in the spatial domain.
+GBRAS_SW is a software for the detection of steganographic images in the spatial domain. It is based in the GBRAS architecture that is in-depth explanate in [1]. GBRAS_SW shows high precision rates for the prediction of steganographic images. This software maintains, for preprocessing stage, the 30 SRM filters and has a 3xTanH activation function. Also, it uses the ELU activation function in all feature extraction convolutions, and shortcuts for feature extraction and separable and depthwise convolutions. This software does not use fully connected layers; the network uses a softmax directly after global average pooling.
 ## Prerequisites
 The GBRAS_SW requires the following libraries and frameworks.
 
@@ -46,7 +46,7 @@ Then you might run as following:
 ```
 python GBRAS_SW.py -i ./images -m ./models/S-UNIWARD_0.4bpp.hdf5
 ```
-In the repository, there are two folders, one with images and the other with models. The images folder contains eighty cover and stego images for testing the software. Can add more images to the folder to test the software's accuracy in detecting cover and stego image in the spatial domain.  The format of the images is Portable Gray Map (PGM). In the model folder, there are four models S_UNIWARD and WOW, with two payloads, 0.4 and 0.2 bpp, respectively.  Can choose any of the four models to perform a cover or stego image prediction, Example:
+In the repository, there are two folders, one with images and the other with models. The images folder contains eighty cover and stego images for testing the software. You can add more images to the folder to test the software's accuracy in detecting cover and stego image in the spatial domain.  The format of the images is Portable Gray Map (PGM). In the model folder, there are four models S_UNIWARD and WOW, with two payloads, 0.4 and 0.2 bpp, respectively. You can choose any of the four models to perform a cover or stego image prediction, for example:
 
 ```
 python GBRAS_SW.py -i ./images -m ./models/WOW_0.4bpp.hdf5
@@ -79,7 +79,7 @@ Universidad de Antioquia (http://udea.edu.co/)
 If you used GBRAS_SW in your research, please cite our paper:
 #### Plain Text
 ```
-T. -S. Reinel et al., "GBRAS-Net: A Convolutional Neural Network Architecture for Spatial Image Steganalysis," in IEEE Access, vol. 9, pp. 14340-14350, 2021, doi: 10.1109/ACCESS.2021.3052494.
+Tabares-Soto, R. et al., "GBRAS-Net: A Convolutional Neural Network Architecture for Spatial Image Steganalysis," in IEEE Access, vol. 9, pp. 14340-14350, 2021, doi: 10.1109/ACCESS.2021.3052494.
 ```
 
 #### BibTeX
