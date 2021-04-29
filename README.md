@@ -52,7 +52,7 @@ In the repository, there are two folders, one with images and the other with mod
 python GBRAS_SW.py -i ./images -m ./models/WOW_0.4bpp.hdf5
 ```
 ## Authors
-Universidad Autonoma de Manizales (https://www.autonoma.edu.co/)
+Universidad Autónoma de Manizales (https://www.autonoma.edu.co/)
 
 - Reinel Tabares Soto
 - Harold Brayan Arteaga Arteaga
