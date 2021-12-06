@@ -74,16 +74,22 @@ Universidad de Antioquia (http://udea.edu.co/)
 
 [1] T. -S. Reinel et al., "GBRAS-Net: A Convolutional Neural Network Architecture for Spatial Image Steganalysis," in IEEE Access, vol. 9, pp. 14340-14350, 2021, doi: 10.1109/ACCESS.2021.3052494.
 
-## Citation
+## Citing
 
-If you used GBRAS_SW in your research, please cite our paper:
-#### Plain Text
+If you use our project for your research or if you find this paper and repository helpful, please consider citing the work:
+
+T. -S. Reinel et al., "GBRAS-Net: A Convolutional Neural Network Architecture for Spatial Image Steganalysis," in IEEE Access, vol. 9, pp. 14340-14350, 2021, doi: [10.1109/ACCESS.2021.3052494](https://doi.org/10.1109/ACCESS.2021.3052494). 
+
 ```
-Tabares-Soto, R. et al., "GBRAS-Net: A Convolutional Neural Network Architecture for Spatial Image Steganalysis," in IEEE Access, vol. 9, pp. 14340-14350, 2021, doi: 10.1109/ACCESS.2021.3052494.
+@ARTICLE{GBRAS2021,  
+  author={Reinel, Tabares-Soto and Brayan, Arteaga-Arteaga Harold and Alejandro, Bravo-Ortiz Mario and Alejandro, Mora-Rubio and Daniel, Arias-Garzón and Alejandro, Alzate-Grisales Jesús and Buenaventura, Burbano-Jacome Alejandro and Simon, Orozco-Arias and Gustavo, Isaza and Raúl, Ramos-Pollán},  
+  journal={IEEE Access},   
+  title={GBRAS-Net: A Convolutional Neural Network Architecture for Spatial Image Steganalysis},   
+  year={2021},  
+  volume={9},  
+  number={},  
+  pages={14340-14350},  
+  doi={10.1109/ACCESS.2021.3052494}}
 ```
 
-#### BibTeX
-```
-@ARTICLE{9328287,  author={T. -S. {Reinel} and A. -A. H. {Brayan} and B. -O. M. {Alejandro} and M. -R. {Alejandro} and A. -G. {Daniel} and A. -G. J. {Alejandro} and B. -J. A. {Buenaventura} and O. -A. {Simon} and I. {Gustavo} and R. -P. {Raúl}},  journal={IEEE Access},   title={GBRAS-Net: A Convolutional Neural Network Architecture for Spatial Image Steganalysis},   year={2021},  volume={9},  number={},  pages={14340-14350},  doi={10.1109/ACCESS.2021.3052494}}
-```
-
+This paper was published as a journal paper in IEEE Access. ([Webpage](https://ieeexplore.ieee.org/document/9328287))
