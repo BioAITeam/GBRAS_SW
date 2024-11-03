@@ -1,0 +1,6 @@
+https://files.pythonhosted.org/packages/02/95/87f6583564e7095d4959ed42f4d6d79c65bfcdbdd9675b5ce2a0d06ac79c/tensorflow_gpu-2.8.0-cp310-cp310-win_amd64.whl
+opencv-python==4.10.0.84
+scikit-image==0.24.0
+xlsxwriter==3.2.0
+protobuf==3.20.3
+numpy==1.23.5
